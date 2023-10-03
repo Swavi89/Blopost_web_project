@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "title": "Crafting Great XR Experiences - Building Pluto",
+        "author": "R.K Narayan.",
+        "date": "21 Jun 2023",
+        "duration": "6 min read",
+        "image": "img/3.png"
+    },
+    {
+        "id": 2,
+        "title": "Case Study: Olga Prudka",
+        "author": "Mulk Raj Anand.",
+        "date": "15 Jun 2023",
+        "duration": "6 min read",
+        "image": "img/4.png"
+    },
+    {
+        "id": 3,
+        "title": "Vote for Site of the Month May 2023!",
+        "author": "Khushwant Singh. ",
+        "date": "01 Jun 2023",
+        "duration": "5 min read",
+        "image": "img/2.png"
+    },
+    {
+        "id": 4,
+        "title": "SILENCIO: DIGITAL PRODUCTS by SILENCIO Wins SOTM April...",
+        "author": "Amrita Pritam.",
+        "date": "31 May 2023",
+        "duration": "6 min read",
+        "image": "img/11.svg"
+    },
+    {
+        "id": 5,
+        "title": "New Blog Post",
+        "author": "Arundhati Roy.",
+        "date": "25 Jun 2023",
+        "duration": "10 min read",
+        "image": "img/5.webp"
+    },
+    {
+        "id": 6,
+        "title": "UX Design Tips for Beginners",
+        "author": "Author Name",
+        "date": "26 Jun 2023",
+        "duration": "7 min read",
+        "image": "img/6.webp"
+    },
+    {
+        "id": 7,
+        "title": "The Art of Minimalism in Web Design",
+        "author": "Author Name",
+        "date": "27 Jun 2023",
+        "duration": "9 min read",
+        "image": "img/7.webp"
+    },
+    {
+        "id": 8,
+        "title": "The Power of Typography in UI/UX Design",
+        "author": "Author Name",
+        "date": "28 Jun 2023",
+        "duration": "8 min read",
+        "image": "img/11.svg"
+    },
+    {
+        "id": 9,
+        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "author": "Author Name",
+        "date": "21 Jun 2023",
+        "duration": "6 min read",
+        "image": "img/4.png"
+    },
+    {
+        "id": 10,
+        "title": "qui est esse",
+        "author": "Author Name",
+        "date": "15 Jun 2023",
+        "duration": "8 min read",
+        "image": "img/1.png"
+    },
+    {
+        "id": 11,
+        "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+        "author": "Author Name",
+        "date": "01 Jun 2023",
+        "duration": "5 min read",
+        "image": "img/2.png"
+    },
+    {
+        "id": 12,
+        "title": "eum et est occaecati.",
+        "author": "Author Name",
+        "date": "31 May 2023",
+        "duration": "6 min read",
+        "image": "img/6.webp"
+    },
+    {
+        "id": 13,
+        "title": "nesciunt quas odio",
+        "author": "Author Name",
+        "date": "25 Jun 2023",
+        "duration": "10 min read",
+        "image": "img/3.png"
+    },
+    {
+        "id": 14,
+        "title": "dolorem eum magni eos aperiam quia",
+        "author": "Author Name",
+        "date": "26 Jun 2023",
+        "duration": "7 min read",
+        "image": "img/8.jpeg"
+    },
+    {
+        "id": 15,
+        "title": "magnam facilis autem",
+        "author": "Author Name",
+        "date": "27 Jun 2023",
+        "duration": "9 min read",
+        "image": "img/9.jpg"
+    },
+    {
+        "id": 16,
+        "title": "dolorem dolore est ipsam",
+        "author": "Author Name",
+        "date": "28 Jun 2023",
+        "duration": "8 min read",
+        "image": "img/10.jpg"
+    },
+    {
+        "id": 17,
+        "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+        "author": "Author Name",
+        "date": "01 Jun 2023",
+        "duration": "5 min read",
+        "image": "img/2.png"
+    },
+    {
+        "id": 18,
+        "title": "eum et est occaecati.",
+        "author": "Author Name",
+        "date": "31 May 2023",
+        "duration": "6 min read",
+        "image": "img/6.webp"
+    },
+    {
+        "id": 19,
+        "title": "nesciunt quas odio",
+        "author": "Author Name",
+        "date": "25 Jun 2023",
+        "duration": "10 min read",
+        "image": "img/3.png"
+    },
+    {
+        "id": 20,
+        "title": "dolorem eum magni eos aperiam quia",
+        "author": "Author Name",
+        "date": "26 Jun 2023",
+        "duration": "2 min read",
+        "image": "img/8.jpeg"
+    }
+]
